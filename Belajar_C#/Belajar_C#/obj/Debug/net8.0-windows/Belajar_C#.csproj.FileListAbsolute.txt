@@ -1,0 +1,16 @@
+D:\BELAJAR\Belajar Koding\Belajar_C#\Belajar_C#\bin\Debug\net8.0-windows\Belajar_C#.exe
+D:\BELAJAR\Belajar Koding\Belajar_C#\Belajar_C#\bin\Debug\net8.0-windows\Belajar_C#.deps.json
+D:\BELAJAR\Belajar Koding\Belajar_C#\Belajar_C#\bin\Debug\net8.0-windows\Belajar_C#.runtimeconfig.json
+D:\BELAJAR\Belajar Koding\Belajar_C#\Belajar_C#\bin\Debug\net8.0-windows\Belajar_C#.dll
+D:\BELAJAR\Belajar Koding\Belajar_C#\Belajar_C#\bin\Debug\net8.0-windows\Belajar_C#.pdb
+D:\BELAJAR\Belajar Koding\Belajar_C#\Belajar_C#\obj\Debug\net8.0-windows\Belajar_C_.Form1.resources
+D:\BELAJAR\Belajar Koding\Belajar_C#\Belajar_C#\obj\Debug\net8.0-windows\Belajar_C#.csproj.GenerateResource.cache
+D:\BELAJAR\Belajar Koding\Belajar_C#\Belajar_C#\obj\Debug\net8.0-windows\Belajar_C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\BELAJAR\Belajar Koding\Belajar_C#\Belajar_C#\obj\Debug\net8.0-windows\Belajar_C#.AssemblyInfoInputs.cache
+D:\BELAJAR\Belajar Koding\Belajar_C#\Belajar_C#\obj\Debug\net8.0-windows\Belajar_C#.AssemblyInfo.cs
+D:\BELAJAR\Belajar Koding\Belajar_C#\Belajar_C#\obj\Debug\net8.0-windows\Belajar_C#.csproj.CoreCompileInputs.cache
+D:\BELAJAR\Belajar Koding\Belajar_C#\Belajar_C#\obj\Debug\net8.0-windows\Belajar_C#.dll
+D:\BELAJAR\Belajar Koding\Belajar_C#\Belajar_C#\obj\Debug\net8.0-windows\refint\Belajar_C#.dll
+D:\BELAJAR\Belajar Koding\Belajar_C#\Belajar_C#\obj\Debug\net8.0-windows\Belajar_C#.pdb
+D:\BELAJAR\Belajar Koding\Belajar_C#\Belajar_C#\obj\Debug\net8.0-windows\Belajar_C#.genruntimeconfig.cache
+D:\BELAJAR\Belajar Koding\Belajar_C#\Belajar_C#\obj\Debug\net8.0-windows\ref\Belajar_C#.dll
