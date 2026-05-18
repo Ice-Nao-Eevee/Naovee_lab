@@ -1,5 +1,6 @@
+<div align="center">
 # Naovee_lab
-
+</div>
 ---
 
 # React + Vite
