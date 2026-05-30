@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\My_git_desktop_repo\\Naovee_lab\\Belajar_C#\\Belajar_C#\\Belajar_C#.csproj": {}
+    "D:\\BELAJAR\\Belajar Koding\\Belajar_C#\\Belajar_C#\\Belajar_C#.csproj": {}
   },
   "projects": {
-    "D:\\My_git_desktop_repo\\Naovee_lab\\Belajar_C#\\Belajar_C#\\Belajar_C#.csproj": {
+    "D:\\BELAJAR\\Belajar Koding\\Belajar_C#\\Belajar_C#\\Belajar_C#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\My_git_desktop_repo\\Naovee_lab\\Belajar_C#\\Belajar_C#\\Belajar_C#.csproj",
+        "projectUniqueName": "D:\\BELAJAR\\Belajar Koding\\Belajar_C#\\Belajar_C#\\Belajar_C#.csproj",
         "projectName": "Belajar_C#",
-        "projectPath": "D:\\My_git_desktop_repo\\Naovee_lab\\Belajar_C#\\Belajar_C#\\Belajar_C#.csproj",
+        "projectPath": "D:\\BELAJAR\\Belajar Koding\\Belajar_C#\\Belajar_C#\\Belajar_C#.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\My_git_desktop_repo\\Naovee_lab\\Belajar_C#\\Belajar_C#\\obj\\",
+        "outputPath": "D:\\BELAJAR\\Belajar Koding\\Belajar_C#\\Belajar_C#\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"

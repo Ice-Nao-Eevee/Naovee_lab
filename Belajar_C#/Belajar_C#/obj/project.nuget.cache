@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Kz2S9GDAUFQ=",
+  "dgSpecHash": "tgqvGGeAzqs=",
   "success": true,
-  "projectFilePath": "D:\\My_git_desktop_repo\\Naovee_lab\\Belajar_C#\\Belajar_C#\\Belajar_C#.csproj",
+  "projectFilePath": "D:\\BELAJAR\\Belajar Koding\\Belajar_C#\\Belajar_C#\\Belajar_C#.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.27\\microsoft.netcore.app.ref.8.0.27.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.27\\microsoft.windowsdesktop.app.ref.8.0.27.nupkg.sha512",
