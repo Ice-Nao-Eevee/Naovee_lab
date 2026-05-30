@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\BELAJAR\\Belajar Koding\\Belajar_C#\\Belajar_C#\\Belajar_C#.csproj",
+      "projectUniqueName": "D:\\My_git_desktop_repo\\Naovee_lab\\Belajar_C#\\Belajar_C#\\Belajar_C#.csproj",
       "projectName": "Belajar_C#",
-      "projectPath": "D:\\BELAJAR\\Belajar Koding\\Belajar_C#\\Belajar_C#\\Belajar_C#.csproj",
+      "projectPath": "D:\\My_git_desktop_repo\\Naovee_lab\\Belajar_C#\\Belajar_C#\\Belajar_C#.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "D:\\BELAJAR\\Belajar Koding\\Belajar_C#\\Belajar_C#\\obj\\",
+      "outputPath": "D:\\My_git_desktop_repo\\Naovee_lab\\Belajar_C#\\Belajar_C#\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"

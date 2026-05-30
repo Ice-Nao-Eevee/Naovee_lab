@@ -14,3 +14,20 @@ D:\BELAJAR\Belajar Koding\Belajar_C#\Belajar_C#\obj\Debug\net8.0-windows\refint\
 D:\BELAJAR\Belajar Koding\Belajar_C#\Belajar_C#\obj\Debug\net8.0-windows\Belajar_C#.pdb
 D:\BELAJAR\Belajar Koding\Belajar_C#\Belajar_C#\obj\Debug\net8.0-windows\Belajar_C#.genruntimeconfig.cache
 D:\BELAJAR\Belajar Koding\Belajar_C#\Belajar_C#\obj\Debug\net8.0-windows\ref\Belajar_C#.dll
+D:\My_git_desktop_repo\Naovee_lab\Belajar_C#\Belajar_C#\bin\Debug\net8.0-windows\Belajar_C#.exe
+D:\My_git_desktop_repo\Naovee_lab\Belajar_C#\Belajar_C#\bin\Debug\net8.0-windows\Belajar_C#.deps.json
+D:\My_git_desktop_repo\Naovee_lab\Belajar_C#\Belajar_C#\bin\Debug\net8.0-windows\Belajar_C#.runtimeconfig.json
+D:\My_git_desktop_repo\Naovee_lab\Belajar_C#\Belajar_C#\bin\Debug\net8.0-windows\Belajar_C#.dll
+D:\My_git_desktop_repo\Naovee_lab\Belajar_C#\Belajar_C#\bin\Debug\net8.0-windows\Belajar_C#.pdb
+D:\My_git_desktop_repo\Naovee_lab\Belajar_C#\Belajar_C#\obj\Debug\net8.0-windows\Belajar_C_.Form1.resources
+D:\My_git_desktop_repo\Naovee_lab\Belajar_C#\Belajar_C#\obj\Debug\net8.0-windows\Belajar_C#.csproj.GenerateResource.cache
+D:\My_git_desktop_repo\Naovee_lab\Belajar_C#\Belajar_C#\obj\Debug\net8.0-windows\Belajar_C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_git_desktop_repo\Naovee_lab\Belajar_C#\Belajar_C#\obj\Debug\net8.0-windows\Belajar_C#.AssemblyInfoInputs.cache
+D:\My_git_desktop_repo\Naovee_lab\Belajar_C#\Belajar_C#\obj\Debug\net8.0-windows\Belajar_C#.AssemblyInfo.cs
+D:\My_git_desktop_repo\Naovee_lab\Belajar_C#\Belajar_C#\obj\Debug\net8.0-windows\Belajar_C#.csproj.CoreCompileInputs.cache
+D:\My_git_desktop_repo\Naovee_lab\Belajar_C#\Belajar_C#\obj\Debug\net8.0-windows\Belajar_C#.sourcelink.json
+D:\My_git_desktop_repo\Naovee_lab\Belajar_C#\Belajar_C#\obj\Debug\net8.0-windows\Belajar_C#.dll
+D:\My_git_desktop_repo\Naovee_lab\Belajar_C#\Belajar_C#\obj\Debug\net8.0-windows\refint\Belajar_C#.dll
+D:\My_git_desktop_repo\Naovee_lab\Belajar_C#\Belajar_C#\obj\Debug\net8.0-windows\Belajar_C#.pdb
+D:\My_git_desktop_repo\Naovee_lab\Belajar_C#\Belajar_C#\obj\Debug\net8.0-windows\Belajar_C#.genruntimeconfig.cache
+D:\My_git_desktop_repo\Naovee_lab\Belajar_C#\Belajar_C#\obj\Debug\net8.0-windows\ref\Belajar_C#.dll
